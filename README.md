@@ -28,6 +28,8 @@ Home Page
 
 
 ADMIN
+![image](https://github.com/user-attachments/assets/520b484a-1200-4703-9a44-93e1b4286280)
+
 ![image](https://github.com/user-attachments/assets/297a38ba-f93a-4c3d-b70c-41e084373253)
 
 
