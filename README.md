@@ -28,7 +28,8 @@ Home Page
 
 
 ADMIN
-![image](https://github.com/user-attachments/assets/58079845-4d35-40ac-8f82-89c64c9c1a75)
+![image](https://github.com/user-attachments/assets/297a38ba-f93a-4c3d-b70c-41e084373253)
+
 
 ![image](https://github.com/user-attachments/assets/786f5b1f-10c9-4272-b37a-f7826bff5768)
 
@@ -38,11 +39,13 @@ ADMIN
 
 ![image](https://github.com/user-attachments/assets/3a274156-072f-4fd0-bc16-430e19c169a1)
 
-![image](https://github.com/user-attachments/assets/bcf47f11-89cf-43e6-8c25-9c620f30dac9)
+![image](https://github.com/user-attachments/assets/aeddf38e-2d7d-413a-b716-07585b32b495)
+
 
 Doctor
 
-![image](https://github.com/user-attachments/assets/160ee658-69ff-4ca4-874e-d2f37ca39185)
+![image](https://github.com/user-attachments/assets/61047a68-ef2f-4b14-9b6a-65c51e3a3908)
+
 
 ![image](https://github.com/user-attachments/assets/5b8f3c2f-76b0-4a2d-b761-f0466b96e6c7)
 
@@ -50,9 +53,9 @@ Doctor
 
 Patient
 
-![image](https://github.com/user-attachments/assets/10121c6a-da1e-4f83-b5aa-8538e4ea9427)
+![image](https://github.com/user-attachments/assets/a4954597-4922-4b6f-991e-c4a6ce60e897)
 
-![image](https://github.com/user-attachments/assets/505efb3a-92d1-4476-8e32-201fac28662f)
+![image](https://github.com/user-attachments/assets/861474e4-3b83-4af5-b274-141daa5731e1)
 
 ![image](https://github.com/user-attachments/assets/5727b291-141c-48c4-b5fb-fbe5c8e4ad7c)
 
