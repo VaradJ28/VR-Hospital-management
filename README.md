@@ -1,6 +1,7 @@
 # VR-Hospital-management
 
-![image](https://github.com/user-attachments/assets/9449fc5c-c66e-4c32-b9ad-b9c5b2aa5207)
+![image_2024-09-11_00-34-48](https://github.com/user-attachments/assets/f1828d35-19cb-41d0-a06d-00c30d62756f)
+
 
 ![image](https://github.com/user-attachments/assets/60c11ea1-828d-4c54-8997-75e206eefb05)
 
