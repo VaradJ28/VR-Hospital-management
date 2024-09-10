@@ -27,6 +27,29 @@ Home Page
 ![image](https://github.com/user-attachments/assets/60c11ea1-828d-4c54-8997-75e206eefb05)
 
 
+ADMIN
+![image](https://github.com/user-attachments/assets/58079845-4d35-40ac-8f82-89c64c9c1a75)
+
+![image](https://github.com/user-attachments/assets/786f5b1f-10c9-4272-b37a-f7826bff5768)
+
+![image](https://github.com/user-attachments/assets/6a76118c-10ad-46c2-9557-71d0a506e440)
+
+![image](https://github.com/user-attachments/assets/fec255f1-623f-4609-97ba-111486fa8adb)
+
+![image](https://github.com/user-attachments/assets/3a274156-072f-4fd0-bc16-430e19c169a1)
+
+![image](https://github.com/user-attachments/assets/bcf47f11-89cf-43e6-8c25-9c620f30dac9)
+
+Doctor
+
+
+
+
+
+
+
+
+
 Admin
 
 Signup their account. Then Login (No approval Required).
