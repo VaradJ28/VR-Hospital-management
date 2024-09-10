@@ -1,0 +1,35 @@
+{% extends 'hospital/homebase.html' %}
+<!--
+developed By : Mr.Varad & Mr.Ravi
+-->
+
+{% block content %}
+
+<br>
+<br>
+
+<div class="jumbotron" style="margin-bottom:0px;">
+  <h1 class="display-4" style="text-align:center;">Hello, Patient</h1>
+  <p class="lead"><b> Welcome to VaradRavi Hospital Management System </b> <br>
+
+    At VaradRavi Hospital, we are committed to providing you with exceptional healthcare services, designed to make your experience as smooth and convenient as possible. Our advanced Hospital Management System offers a range of features to ensure you receive the best care efficiently. Explore our services below:
+    
+    Features:
+    Online Appointment Booking: Schedule your appointments with your preferred doctor directly through our user-friendly online booking system. Choose a convenient date and time, and receive instant confirmation of your appointment.
+    
+    Doctor Profiles: Access detailed profiles of our experienced doctors, including their specialties, qualifications, and availability. Make informed decisions by reviewing their expertise before booking your appointment.
+    
+    Patient Records Management: Easily manage your medical records, including past appointments, treatments, and test results. Access your health history securely at any time, from anywhere.
+    
+    Prescription Management: View and manage your prescriptions digitally. Our system allows you to track medication history and receive notifications for prescription refills.
+    
+    Hospital Information: Get information about our hospital facilities, departments, and services. Find the nearest hospital branch, operating hours, and contact details.</p>
+  <hr class="my-4">
+  <p>You can access various features after Login/SignUp.</p>
+  <p class="lead">
+    <a class="btn btn-primary btn-lg" href="/patientsignup" role="button">Register Your Account</a>
+    <a class="btn btn-primary btn-lg" href="/patientlogin" role="button">Login</a>
+  </p>
+</div>
+
+{% endblock content %}
