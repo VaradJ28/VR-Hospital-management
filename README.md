@@ -14,7 +14,7 @@ Doctor Assignment: Admin can assign or re-assign doctors to patients.
 Tech Stack & Language Distribution
 
 Frontend: HTML (69.5%), CSS (1.7%)
-Backend: Python (28.8%), Node.js, Express.js
+Backend: Python (28.8%), 
 Database: MySQL
 Others: HTML5, CSS3, JavaScript
 
